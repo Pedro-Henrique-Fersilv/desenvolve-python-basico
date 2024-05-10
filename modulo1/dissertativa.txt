@@ -1,0 +1,16 @@
+Receba o valor
+
+Aplique a operação de subtração do valor recebido pelo valor 1
+
+Armazene o resultado dessa operação na varialvel digito1
+
+Aplique a operação de subtração do valor recebido pelo valor 10
+
+Armazene o resultado dessa operação na varialvel digito2
+
+Aplique a operação de multiplicação do digito1 pelo valor 10
+
+Some este valor ao digito2
+
+
+

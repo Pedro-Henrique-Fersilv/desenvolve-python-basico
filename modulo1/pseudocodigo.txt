@@ -1,0 +1,13 @@
+Inicio
+
+Leia n;
+
+digito1 = n - 1;
+
+digito2 = 10 - n;
+
+r = digito 1 x 10 + digito 2;
+
+Imprima r;
+
+Fim
