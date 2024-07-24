@@ -1,0 +1,12 @@
+with open ('meus_livros.csv', 'w') as f:
+    f.write("Título,Autor,Ano de publicação,Número de páginas\n")
+    f.write("1984,George Orwell,1949,328\n")
+    f.write("Orgulho e Preconceito,Jane Austen,1813,279\n")
+    f.write("Dom Quixote,Miguel de Cervantes,1605,1072\n")
+    f.write("Cem Anos de Solidão,Gabriel García Márquez,1967,417\n")
+    f.write("O Senhor dos Anéis: A Sociedade do Anel,J.R.R. Tolkien,1954,423\n")
+    f.write("Moby Dick,Herman Melville,1851,635\n")
+    f.write("A Revolução dos Bichos,George Orwell,1945,112\n")
+    f.write("O Sol é para Todos,Harper Lee,1960,281\n")
+    f.write("Ulisses,James Joyce,1922,730\n")
+    f.write("O Grande Gatsby,F. Scott Fitzgerald,1925,180\n")
